@@ -11,9 +11,8 @@
   },
   "Hero": {
     "badge": "Open Source · Licencia MIT · Self-Hosted",
-    "headlineTop": "DEJA DE PAGAR DE MÁS",
-    "headlineBottom": "OPTIMIZACIÓN DE RUTAS",
-    "headlineFor": "POR",
+    "headlineTop": "OPTIMIZA TUS RUTAS",
+    "headlineBottom": "NO TUS COSTOS",
     "subtitle": "Optimización de rutas de nivel empresarial, gestión de flotas y monitoreo en tiempo real. Alojado en tu infraestructura. Sin costo por conductor.",
     "getStartedFree": "COMENZAR GRATIS",
     "viewOnGithub": "Ver en GitHub",

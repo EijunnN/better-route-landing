@@ -77,7 +77,7 @@ export default function Hero() {
           >
             {t("headlineTop")}
             <br />
-            {t("headlineFor")} <span className="text-primary">{t("headlineBottom")}</span>
+            <span className="text-primary">{t("headlineBottom")}</span>
           </h1>
 
           {/* Subheadline */}

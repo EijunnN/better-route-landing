@@ -11,9 +11,8 @@
   },
   "Hero": {
     "badge": "Open Source · MIT Licensed · Self-Hosted",
-    "headlineTop": "STOP OVERPAYING",
-    "headlineBottom": "ROUTE OPTIMIZATION",
-    "headlineFor": "FOR",
+    "headlineTop": "OPTIMIZE YOUR ROUTES",
+    "headlineBottom": "NOT YOUR COSTS",
     "subtitle": "Enterprise-grade route optimization, fleet management, and real-time monitoring. Self-hosted on your infrastructure. Zero per-driver fees.",
     "getStartedFree": "GET STARTED FREE",
     "viewOnGithub": "View on GitHub",
